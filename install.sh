@@ -35,5 +35,7 @@ echo                      "####################"
 
 apachectl
 
-
+PS1="[\u@\H\W\!]\$"
+ 
+                 setterm  -foreground white
 
