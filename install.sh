@@ -6,8 +6,6 @@ echo "  / ____ \ (_| |  __/ | | | ||  __/  | |  | |  ___) |  ";
 echo " /_/    \_\__, |\___|_| |_|\__\___|  |_|  |_| |____/   ";
 echo "           __/ | ";
 echo "           |___/ ";
-
-
 apt update && apt upgrade
 apt install php
 apt install apache2 
