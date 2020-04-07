@@ -19,6 +19,12 @@ cd --
 echo "Agente 145";
 cd --
 
+#funciones
+        function reinicio {
+                 echo $(clear)
+                 
+  
+
 
 
 
