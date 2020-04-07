@@ -23,6 +23,14 @@ cd --
         function reinicio {
                  echo $(clear)
                  
+                 
+                 setterm -foreground cyan
+echo                      "####################"
+echo                      "     BIENVENIDO     "
+echo                      "    SERVIDOR WEB    "
+echo                      "    127.0.0.1:8080  "                    
+echo                      "####################"
+ bsjj                
   
 
 
