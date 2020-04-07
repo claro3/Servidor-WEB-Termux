@@ -1,6 +1,4 @@
 #! /data/data/com.termux/files/usr/bin/bash/
-# Hola a todos
-
 
 echo "Cargando Sistema";
 echo "........";
