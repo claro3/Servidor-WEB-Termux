@@ -33,7 +33,7 @@ echo                      "####################"
                 setterm -foreground green               
   
 
-
+apachectl
 
 
 
