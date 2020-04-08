@@ -38,9 +38,7 @@ echo                      "####################"
 
 apachectl
 
-cd /data/data/com.termux/files/usr/share/apache2/default-site/htdocs
-
-echo "Ingresa a /data/data/com.termux/files/usr/share/apache2/default-site/htdocs
+echo "Ingresa a /data/data/com.termux/files/usr/share/apache2/default-site/htdocs";
 
 echo "Luego escribe ls y despues escribe nano index.html para editar el servidor web.";
 
