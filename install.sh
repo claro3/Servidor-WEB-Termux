@@ -40,6 +40,8 @@ apachectl
 
 cd /data/data/com.termux/files/usr/share/apache2/default-site/htdocs;ls
 
+echo "Escribe nano index.html para editar el servidor web.";
+
 
  
                  setterm  -foreground white
